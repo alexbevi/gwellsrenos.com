@@ -2,7 +2,7 @@ title: Ajax Knights MD7-White
 description: > # this means to ignore newlines until "baseurl:"
   Website to summarize the prizes available during the November 2017 draw
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "Your-Link.github.io" # the base hostname & protocol for your site
+url: "http://www.ajaxknights.online" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 
