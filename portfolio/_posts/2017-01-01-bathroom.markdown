@@ -1,0 +1,7 @@
+---
+title: A bathroom
+name: Name-1
+subtitle: So you can shit like a king!
+layout: 2017_default
+thumbnail: bathroom.png
+---
