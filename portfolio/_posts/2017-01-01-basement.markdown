@@ -1,5 +1,5 @@
 ---
-title: 151 Rands Road
+title: A kickass basement!
 name: Name-2
 subtitle:  I make basements not suck!
 layout: 2017_default
